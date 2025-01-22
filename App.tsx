@@ -32,7 +32,7 @@ export default function App() {
 
         {/* Post Image */}
         <Image
-          source={require('./assets/IMG_0672.jpg')}
+          source={require('./assets/IMG_0672.jpg')}  
           style={styles.postImage}
         />
 
